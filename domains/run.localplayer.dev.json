@@ -1,0 +1,15 @@
+{
+    "domain": "localplayer.dev",
+    "subdomain": "run",
+
+    "owner": {
+        "repo": "https://github.com/ahmedazhar05",
+        "email": "ahmedazhar0005@gmail.com"
+    },
+
+    "record": {
+        "A": ["141.148.213.98"]
+    },
+
+    "proxied": true
+}
